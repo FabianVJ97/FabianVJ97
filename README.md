@@ -36,7 +36,5 @@ Me especializo en el uso de modelos jerárquicos espacio-temporales, tanto en co
 - 📧 fabian.vargas1901@alumnos.ubiobio.cl
 - 🔗 [GitHub](https://github.com/FabianVJ97)  
 
----
 
-*Este perfil refleja mi compromiso con la aplicación rigurosa de métodos estadísticos para resolver problemas reales de alto impacto.*
 
